@@ -1,3 +1,3 @@
 console.error ('popcorn!');
-console.console.log('freebandz society');
-console.console.warn('ahaha');
+console.log('freebandz society');
+console.warn('ahaha');
